@@ -252,6 +252,66 @@
       "link_do_filme":"",
       "capa_do_filme": "https://assets.papelpop.com/wp-content/uploads/2018/10/capitao-america.jpg",
       "icone_do_filme": "https://image.tmdb.org/t/p/w342/bL3Pp80AUgmwOE9K2EMcMH8566W.jpg"
+    },
+    {
+      "titulo_original": "BATMAN VS SUPERMAN",
+      "genero": "aventura",
+      "lancamento":"2016",
+      "duracao":"1651 min",
+      "classificacao_indicativa":"12",
+      "estrelando":"Ben Affleck e Gal Gadot",
+      "sinopse":"Temendo que as ações de um super-herói divino não tenham sido controladas, o formidável e vigoroso vigilante de Gotham City enfrenta o salvador mais reverenciado e moderno de Metrópolis, enquanto o mundo luta com o tipo de herói que realmente precisa. E com Batman e Superman em guerra um com o outro, uma nova ameaça rapidamente surge, colocando a humanidade em maior perigo do que nunca antes.",
+      "link_do_filme":"",
+      "capa_do_filme": "https://extra.globo.com/incoming/20983414-f70-697/w640h360-PROP/xbatmanvsuperman.jpg.pagespeed.ic.b5m8YJWK-l.jpg",
+      "icone_do_filme": "https://image.tmdb.org/t/p/w342/9ORTc9UUTtRq7pssuu5OXNG3W5m.jpg"
+    },
+    {
+      "titulo_original": "PODRES DE RICO",
+      "genero": "comedia",
+      "lancamento":"2018",
+      "duracao":"121 min",
+      "classificacao_indicativa":"12",
+      "estrelando":"Constance Wu e Henry Golding",
+      "sinopse":"Rachel Chu é uma professora de economia nos EUA e namora com Nick Young há algum tempo. Quando Nick convida Rachel para ir no casamento do melhor amigo, em Singapura, ele esquece de avisar à namorada que, como herdeiro de uma fortuna, ele é um dos solteiros mais cobiçados do local, colocando Rachel na mira de outras candidatas e da mãe de Nick, que desaprova o namoro.",
+      "link_do_filme":"",
+      "capa_do_filme": "https://cinepop.com.br/wp-content/uploads/2018/08/crazy-rich-asians-cinepop8-750x380.jpg",
+      "icone_do_filme": "https://image.tmdb.org/t/p/w342/orng9Fpa6L42U6WaXY3bS2s8n0A.jpg"
+    },    
+    {
+      "titulo_original": "NORBIT",
+      "genero": "comedia",
+      "lancamento":"2017",
+      "duracao":"101 min",
+      "classificacao_indicativa":"12",
+      "estrelando":"Eddie Murphy e Eddie Murphy",
+      "sinopse":"Norbit foi criado pelo sr. Wong, que o encontrou ainda bebê no Restaurante e Orfanato Wonton Dourado. Foi neste local que ele conheceu sua alma gêmea, Kate. Eles se tornam amigos inseparáveis, até ela ser adotada e deixar o local. Aos 9 anos, Norbit é ameaçado por três garotos da escola mas é salvo por Rasputia, uma robusta garota de 10 anos. Os dois crescem, namoram e se casam. ",
+      "link_do_filme":"",
+      "capa_do_filme": "https://ichef.bbci.co.uk/images/ic/1200x675/p01h4nrp.jpg",
+      "icone_do_filme": "https://image.tmdb.org/t/p/w342/6Caqm9I1muCntiXWSHBEM2Ul7OO.jpg"
+    },
+    {
+      "titulo_original": "TED",
+      "genero": "comedia",
+      "lancamento":"2012",
+      "duracao":"107 min",
+      "classificacao_indicativa":"16",
+      "estrelando":"Mark Wahlberg e Mila Kunis",
+      "sinopse":"É Natal e o pequeno John tem apenas um pedido a fazer ao Papai Noel: que seu ursinho de pelúcia, Ted, ganhe vida. O garoto fica surpreso ao perceber que seu pedido foi atendido e logo eles se tornam grandes amigos. John e Ted crescem juntos e o urso de pelúcia se torna bastante mal humorado com a idade. Já adulto, John precisa decidir entre manter a amizade de infância ou o namoro com Lori Collins.",
+      "link_do_filme":"",
+      "capa_do_filme": "http://s2.glbimg.com/ylL6G4maixztBkmUzGPUypgry4A=/smart/e.glbimg.com/og/ed/f/original/2015/08/26/ted.jpg",
+      "icone_do_filme": "https://image.tmdb.org/t/p/w342/940mqfw2XfAilqs3VkM4vxTfLy9.jpg"
+    },
+    {
+      "titulo_original": "VOVO ZONA 3: Tal pai, tal filho",
+      "genero": "comedia",
+      "lancamento":"2011",
+      "duracao":"107 min",
+      "classificacao_indicativa":"14",
+      "estrelando":"Brandon T. Jakcson e Martin Lawrence",
+      "sinopse":" O jovem Trent só queria saber de se tornar um rapper, mas seu padrasto, o agente do FBI Malcolm tem planos mais ambiciosos para ele. Só que o rapaz atrapalhou uma investigação e acabou testemunhando um assassinato. Agora, os dois precisam encontrar um importante pen drive para botar o tal criminoso na cadeia, mas o arquivo está escondido numa escola de artes cênicas somente para garotas. Chegou a hora de Vovózona entrar em cena e, agora, acompanhada de sua sobrinha-neta Charmaine.",
+      "link_do_filme":"",
+      "capa_do_filme": "https://lh3.googleusercontent.com/-594lsOF0zzA/TXlvycsMmxI/AAAAAAAAAJc/ac7kJAeuI8g/w1200-h630-p-k-no-nu/vovo_zona_3.jpg",
+      "icone_do_filme": "https://image.tmdb.org/t/p/w342/6Caqm9I1muCntiXWSHBEM2Ul7OO.jpg"
     }
   ]
 }
